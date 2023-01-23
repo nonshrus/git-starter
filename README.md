@@ -2,3 +2,4 @@
 to starter git 
 
 create name : saharat uamsart 
+merge : true 
